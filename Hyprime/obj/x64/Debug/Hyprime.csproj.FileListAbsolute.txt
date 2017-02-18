@@ -1,0 +1,6 @@
+C:\Users\Hein\Documents\GitHub\hyprime\Hyprime\bin\x64\Debug\Hyprime.exe.config
+C:\Users\Hein\Documents\GitHub\hyprime\Hyprime\bin\x64\Debug\Hyprime.exe
+C:\Users\Hein\Documents\GitHub\hyprime\Hyprime\bin\x64\Debug\Hyprime.pdb
+C:\Users\Hein\Documents\GitHub\hyprime\Hyprime\obj\x64\Debug\Hyprime.csproj.ResolveComReference.cache
+C:\Users\Hein\Documents\GitHub\hyprime\Hyprime\obj\x64\Debug\Hyprime.exe
+C:\Users\Hein\Documents\GitHub\hyprime\Hyprime\obj\x64\Debug\Hyprime.pdb
