@@ -56,7 +56,7 @@ namespace Hyprime
 
         public static void GUI()
         {
-            while(true)
+            while (true)
             {
                 int ct = Console.CursorTop, cl = Console.CursorLeft;
                 Console.SetCursorPosition(0, 0);
@@ -77,7 +77,7 @@ namespace Hyprime
             BigInteger s = 4;
             BigInteger M = Pow(2, p) - 1;
 
-            for(BigInteger i = 0; i < p; i++)
+            for (BigInteger i = 0; i < p; i++)
             {
                 s = ((s * s) - 2) % M;
                 if (s == 0 && !powers.Contains(p))
@@ -100,7 +100,7 @@ namespace Hyprime
                     File.AppendAllText(lastChecked, b.ToString());
                     saveQue = string.Empty;
                 }
-                catch(Exception e)
+                catch (Exception e)
                 {
                     Console.WriteLine("SAVING FAILED!");
                     Console.WriteLine(e.Message);
