@@ -27,7 +27,7 @@ namespace Hyprime
         {
             if (args.Length > 0)
                 saveName = args[0].Contains(".txt") ? args[0] : args[0] + ".txt";
-            powers.Capacity = 21474836;
+            powers.Capacity = Int32.MaxValue / 100;
             while (true)
             {
                 BigInteger i = 0;
